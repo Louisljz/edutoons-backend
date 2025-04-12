@@ -1,0 +1,10 @@
+python-dotenv
+
+# stable diffusion
+diffusers
+accelerate
+opencv-python
+
+# vertex ai model serving
+fastapi
+google-cloud-storage

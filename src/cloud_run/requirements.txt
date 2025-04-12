@@ -1,0 +1,9 @@
+fastapi[standard]
+celery
+flower
+redis
+google-cloud-storage
+sendgrid
+openai
+moviepy
+elevenlabs

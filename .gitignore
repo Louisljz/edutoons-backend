@@ -1,0 +1,5 @@
+src/vertex_ai/video_model
+src/cloud_run/config/edutoons-service-account.json
+.venv/
+*.env
+__pycache__/
